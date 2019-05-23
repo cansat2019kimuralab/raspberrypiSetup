@@ -1,4 +1,7 @@
-# Raspberry Pi ‚ÌSetup•û–@
+# Raspberry Pi ã®Setupæ–¹æ³•
 
+[RaspberryPiã®åˆæœŸã‚»ãƒƒãƒ†ã‚£ãƒ³ã‚°](https://qiita.com/S_ODA/items/3600b4492747e66f5df7)
 
-[RaspberryPi‚Ì‰ŠúƒZƒbƒeƒBƒ“ƒO](https://qiita.com/S_ODA/items/3600b4492747e66f5df7)
+# Blink
+
+OSã®è¨­å®šãŒã§ããŸã‚‰LEDã®ç‚¹æ»…ã‚’è©¦ã—ã¦ã¿ã‚‹
