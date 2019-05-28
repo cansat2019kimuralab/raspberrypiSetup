@@ -41,5 +41,5 @@ gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレ�
 とりあえず、セットアップは以上で終わり。
 
 BBMでもEndToEndのプログラムもすべてkimuralabフォルダに保存し、gitにアップすること。
-各モジュールの試験はMasterに挙げる。
+各モジュールの試験はMasterに挙げる。  
 EndToEnd試験や大会用プログラムはbranchに挙げること（詳細はオイオイ）。
