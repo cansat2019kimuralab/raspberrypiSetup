@@ -23,9 +23,9 @@ OSのインストールとpigpioのインストールは
 
 > home  
 > |-  pi  
-> |   |-  git  
-> |   |   |-  muralab  
-> |   |         このディレクトリの中はGitHubと同じ構成にする  
-> |   | 
-> |   |-  pencv
+> |      |-  git  
+> |      |   |-  kimuralab  
+> |      |         このディレクトリの中はGitHubと同じ構成にする  
+> |      | 
+> |      |-  Opencv
 >    
