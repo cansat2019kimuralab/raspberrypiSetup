@@ -23,7 +23,7 @@ OSのインストールとpigpioのインストールは
 
 <pre>
  home  
- |-  pi  
+ ├  pi  
  |      |-  git  
  |      |   |-  kimuralab  
  |      |         このディレクトリの中はGitHubと同じ構成にする  
