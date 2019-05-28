@@ -17,18 +17,17 @@ OSのインストールとpigpioのインストールは
   - pigpioのインストール  
   [Raspberry PiのGPIO制御の決定版pigpioを試す](https://karaage.hatenadiary.jp/entry/2017/02/10/073000)
 
-## ディレクトリの整理
-
-以下のようにディレクトリを整理する。　　
-<pre>
- home  
- 　├ pi  
-  　 ├ git  
-  　 |   ├ kimuralab  
-  　 |       このディレクトリの中はGitHubと同じ構成にする
-   　| 
-   　|- Opencv  //このディレクトリはOpenCVライブラリ用
-</pre>    
+  - ディレクトリの整理  
+  以下のようにディレクトリを整理する。 　
+  <pre>
+  home  
+    ├ pi  
+    ├ git  
+    |   ├ kimuralab  
+    |       このディレクトリの中はGitHubと同じ構成にする
+    | 
+    |- Opencv  //このディレクトリはOpenCVライブラリ用
+  </pre>    
 
 ## GitHubディレクトリの整理
 
