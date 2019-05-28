@@ -1,6 +1,6 @@
 ## Raspberry Piの管理
 
-|Raspberry Pi  |OS  |OpenCV  |Git  |
+|RaspberryPi  |OS  |OpenCV  |Git  |
 |---|---|---|
 |1号機  |  |  |
 |2号機  |  |  |
@@ -8,7 +8,7 @@
 |4号機  |  |  |
 |5号機  |  |  |
 
-|ac  |b  |c  |
+|a  |b  |c  |
 |---|---|---|
 |1  |2  |3  |
 |4  |5  |6  |
