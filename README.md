@@ -8,7 +8,7 @@ OSのインストールとpigpioのインストールは
 
 全部ひとりで設定したい人は以下の項目を行う。
 
-### Raspberry PiのOSインストール、初期設定について
+  ### Raspberry PiのOSインストール、初期設定について
 
 [RaspberryPiの初期セッティング](https://qiita.com/S_ODA/items/3600b4492747e66f5df7)
 
