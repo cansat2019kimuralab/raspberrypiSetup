@@ -26,7 +26,7 @@ OSのインストールとpigpioのインストールは
     |   ├ kimuralab  
     |       このディレクトリの中はGitHubと同じ構成にする
     | 
-    |- Opencv  //このディレクトリはOpenCVライブラリ用
+    ├ Opencv  //このディレクトリはOpenCVライブラリ用
   </pre>    
 
 ## GitHubディレクトリの整理
