@@ -36,11 +36,11 @@ OSのインストールとpigpioのインストールは
 gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレクトリ構成にする
 例えばSensorModuleTestディレクトリを作りたい場合は
 
-'mkdir SensorModuleTest'
-'cd SensorModuleTest'
-'mkdir GPS'
-'cd GPS'
-'git init'
-'git clone https://github.com/cansat2019kimuralab/SensorModuleTest/GPS master'
+`mkdir SensorModuleTest`
+`cd SensorModuleTest`
+`mkdir GPS`
+`cd GPS`
+`git init`
+`git clone https://github.com/cansat2019kimuralab/SensorModuleTest/GPS master`
 
 ほかのフォルダをクローンしたい場合も同様。
