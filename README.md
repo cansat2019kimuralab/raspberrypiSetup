@@ -10,7 +10,6 @@ OSのインストールとpigpioのインストールは
   
 [ラズパイ3 gitインストール](https://qiita.com/natacom/items/63cca20e24e3e864e485)
 
-
 ## OpenCVのインストール
 
 [OpenCV](https://qiita.com/nanbuwks/items/422eb405ceef84826ab4)
@@ -21,6 +20,7 @@ OSのインストールとpigpioのインストールは
 
 ## ディレクトリの整理
 
+以下のようにディレクトリを整理する。　　
 <pre>
  home  
  　├ pi  
@@ -30,3 +30,17 @@ OSのインストールとpigpioのインストールは
    　| 
    　|- Opencv  //このディレクトリはOpenCVライブラリ用
 </pre>    
+
+## GitHubディレクトリの整理
+
+gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレクトリ構成にする
+例えばSensorModuleTestディレクトリを作りたい場合は
+
+'mkdir SensorModuleTest'
+'cd SensorModuleTest'
+'mkdir GPS'
+'cd GPS'
+'git init'
+'git clone https://github.com/cansat2019kimuralab/SensorModuleTest/GPS master'
+
+ほかのフォルダをクローンしたい場合も同様。
