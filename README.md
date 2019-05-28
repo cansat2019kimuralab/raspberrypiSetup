@@ -2,6 +2,12 @@
 
 OSのインストールとpigpioのインストールは
 
+## SDからデータをコピーする
+
+[SD Card CopyerでラズパイのSDカードを複製](https://qiita.com/ikemura23/items/4b7ab1af98045fa6516b)
+
+全部ひとりで設定したい人は以下の項目を行う。
+
 ## Raspberry PiのOSインストール、初期設定について
 
 [RaspberryPiの初期セッティング](https://qiita.com/S_ODA/items/3600b4492747e66f5df7)
@@ -12,7 +18,7 @@ OSのインストールとpigpioのインストールは
 
 ## OpenCVのインストール
 
-[OpenCV](https://qiita.com/nanbuwks/items/422eb405ceef84826ab4)
+[OpenCV + Python3 on Raspberry Pi](https://qiita.com/nanbuwks/items/422eb405ceef84826ab4)
 
 ## pigpioのインストール
 
