@@ -37,3 +37,9 @@ gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレ�
 `git clone https://github.com/cansat2019kimuralab/SensorModuleTest/GPS master`  
 
 ほかのフォルダをクローンしたい場合も同様。
+
+とりあえず、セットアップは以上で終わり。
+
+BBMでもEndToEndのプログラムもすべてkimuralabフォルダに保存し、gitにアップすること。
+各モジュールの試験はMasterに挙げる。
+EndToEnd試験や大会用プログラムはbranchに挙げること（詳細はオイオイ）。
