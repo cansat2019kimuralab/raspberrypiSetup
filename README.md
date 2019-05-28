@@ -21,12 +21,10 @@ OSのインストールとpigpioのインストールは
 
 ## ディレクトリの整理
 
-'''
-home  
-|- pi  
-   |-git  
-   |  |-kimuralab  
-   |    このディレクトリの中はGitHubと同じ構成にする  
-   |  
-   |-opencv
-'''
+> home  
+> |- pi  
+>   |-git  
+>   |  |-kimuralab  
+>   |    このディレクトリの中はGitHubと同じ構成にする  
+>   |  
+>   |-opencv
