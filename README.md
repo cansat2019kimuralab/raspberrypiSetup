@@ -23,10 +23,10 @@ OSのインストールとpigpioのインストールは
 
 <pre>
  home  
- ├  pi  
- |      |-  git  
- |      |   |-  kimuralab  
- |      |         このディレクトリの中はGitHubと同じ構成にする  
- |      | 
- |      |-  Opencv
+ ├ pi  
+   ├ git  
+   |   ├ kimuralab  
+   |       このディレクトリの中はGitHubと同じ構成にする
+   | 
+   |-  Opencv  //このディレクトリはOpenCVライブラリ用
 </pre>    
