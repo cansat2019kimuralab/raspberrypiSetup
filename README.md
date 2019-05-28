@@ -11,6 +11,7 @@
   [RaspberryPiの初期セッティング](https://qiita.com/S_ODA/items/3600b4492747e66f5df7)
   - Gitインストール  
   [ラズパイ3 gitインストール](https://qiita.com/natacom/items/63cca20e24e3e864e485)
+  [自分が誰かを教える」まででいい。
   - OpenCVのインストール  
   [OpenCV + Python3 on Raspberry Pi](https://qiita.com/nanbuwks/items/422eb405ceef84826ab4)
   - pigpioのインストール  
