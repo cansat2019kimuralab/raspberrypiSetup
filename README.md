@@ -32,8 +32,8 @@
 ## GitHubディレクトリの整理
 
 まずGitHubアカウントを自分のものに変更する。  
-`git config --global user.name "自分のユーザーネーム" `
-`git config --global user.email 自分のメールアドレス`
+`git config --global user.name "自分のユーザーネーム" `  
+`git config --global user.email 自分のメールアドレス`  
 
 gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレクトリ構成にする
 例えばSensorModuleTestディレクトリを作りたい場合は
