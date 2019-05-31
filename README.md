@@ -53,7 +53,7 @@ gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレ�
 
 # IPアドレスの固定
 SSH接続する場合はIPアドレスを固定する必要がある。  
-[Raspberry Pi に固定IPアドレスを割り当てる方法（Raspbian Jessie）](https://qiita.com/marie_khr/items/b088ffb252a92eee8f5d)
+[Raspberry Pi に固定IPアドレスを割り当てる方法（Raspbian Jessie）](https://qiita.com/marie_khr/items/b088ffb252a92eee8f5d)  
 割り当て可能なIPアドレスはローカルウィキの「ネットワーク関係」を参照
 
 
