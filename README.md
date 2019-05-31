@@ -39,8 +39,8 @@
 `git config --global user.name "自分のユーザーネーム" `  
 `git config --global user.email 自分のメールアドレス`  
 
-gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレクトリ構成にする
-例えばSensorModuleTestディレクトリを作りたい場合は
+gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレクトリ構成にする  
+例えばSensorModuleTestのGPSディレクトリを入れたい場合は
 
 `mkdir SensorModuleTest`  
 `cd SensorModuleTest`  
