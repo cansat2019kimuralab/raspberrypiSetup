@@ -54,7 +54,10 @@ gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレ�
 SSH接続する場合はIPアドレスを固定する必要がある。  
 [Raspberry Pi に固定IPアドレスを割り当てる方法（Raspbian Jessie）](https://qiita.com/marie_khr/items/b088ffb252a92eee8f5d)  
 割り当て可能なIPアドレスはローカルウィキの「ネットワーク関係」を参照  
-static ip_addressに設定したい固定IPアドレスを、static routersにはゲートウェイのアドレスを、static domain_name_serversはコメントアウトしたままでいい。
+interface0はコメントアウトしたまま  
+static ip_addressに設定したい固定IPアドレス  
+static routersにはゲートウェイのアドレス  
+static domain_name_serversはコメントアウトしたまま
 
 # とりあえず、セットアップは終わり
 BBMもEndToEndもすべてのプログラムはkimuralabフォルダに保存し、gitにアップすること。  
