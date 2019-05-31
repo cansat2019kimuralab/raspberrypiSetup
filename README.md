@@ -16,7 +16,7 @@
   [OpenCV + Python3 on Raspberry Pi](https://qiita.com/nanbuwks/items/422eb405ceef84826ab4)
   - pigpioのインストール  
   [Raspberry PiのGPIO制御の決定版pigpioを試す](https://karaage.hatenadiary.jp/entry/2017/02/10/073000)  
-  インストールよデーモンの自動立ち上げだけ設定すればいい  
+  インストールとデーモンの自動立ち上げだけ設定すればいい  
   `sudo apt-get update`  
   `sudo apt-get install pigpio`  
   `sudo nano /etc/rc.local`  
