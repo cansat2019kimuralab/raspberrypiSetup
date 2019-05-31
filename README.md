@@ -51,7 +51,13 @@ gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレ�
 
 ほかのフォルダをクローンしたい場合も同様。
 
-とりあえず、セットアップは以上で終わり。
+# IPアドレスの固定
+SSH接続する場合はIPアドレスを固定する必要がある。  
+[Raspberry Pi に固定IPアドレスを割り当てる方法（Raspbian Jessie）](https://qiita.com/marie_khr/items/b088ffb252a92eee8f5d)
+割り当て可能なIPアドレスはローカルウィキの「ネットワーク関係」を参照
+
+
+# とりあえず、セットアップは終わり
 
 BBMもEndToEndもすべてのプログラムはkimuralabフォルダに保存し、gitにアップすること。  
 各モジュールの試験はMasterに挙げる。  
