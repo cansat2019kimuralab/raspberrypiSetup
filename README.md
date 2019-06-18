@@ -63,3 +63,6 @@ static domain_name_serversはコメントアウトしたまま
 BBMもEndToEndもすべてのプログラムはkimuralabフォルダに保存し、gitにアップすること。  
 各モジュールの試験はMasterに挙げる。  
 EndToEnd試験や大会用プログラムはbranchに挙げること（詳細はオイオイ）。
+
+# トラブルシューティング
+- [leafpad 設定](https://achapi2718.blogspot.com/2013/10/leafpad.html)
