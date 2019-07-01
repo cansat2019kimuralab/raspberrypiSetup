@@ -9,11 +9,12 @@
 
   - Raspberry PiのOSインストール、初期設定  
   [RaspberryPiの初期セッティング](https://qiita.com/S_ODA/items/3600b4492747e66f5df7)
-  - Gitインストール  
-  [ラズパイ3 gitインストール](https://qiita.com/natacom/items/63cca20e24e3e864e485)  
-  「Gitに自分が誰か教える」まででいい。
-  - OpenCVのインストール  
-  [OpenCV + Python3 on Raspberry Pi](https://qiita.com/nanbuwks/items/422eb405ceef84826ab4)
+  - pip3のインストール  
+  [Ubuntuでpip / pip3がインストールできないときの対処法 | Python2 / 3](https://www.bioerrorlog.work/entry/install-pip-pip3-ubuntu#apt-update%E3%81%97%E3%81%A6%E3%81%8B%E3%82%89apt-install%E3%81%99%E3%82%8B--pip--pip3)  
+  「apt updateしてからapt installする : pip○ / pip3○」だけやればよい
+  - OpenCVのインストール   
+  [Raspberry Pi で OpenCV 4](https://qiita.com/tomo_vn/items/eea677eb00488d4c2291)  
+  OpenCV3の場合はこっち　[OpenCV + Python3 on Raspberry Pi](https://qiita.com/nanbuwks/items/422eb405ceef84826ab4) 
   - pigpioのインストール  
   [Raspberry PiのGPIO制御の決定版pigpioを試す](https://karaage.hatenadiary.jp/entry/2017/02/10/073000)  
   インストールとデーモンの自動立ち上げだけ設定すればいい  
