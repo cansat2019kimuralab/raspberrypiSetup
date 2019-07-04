@@ -39,7 +39,7 @@
     |       このディレクトリの中はGitHubと同じ構成にする
     | 
     ├ opencv  //このディレクトリはOpenCVライブラリ用 
-    ├ opencv_contrib  ////このディレクトリはOpenCVライブラリ用
+    ├ opencv_contrib  //このディレクトリはOpenCVライブラリ用
   </pre>    
 
 ## GitHubディレクトリの整理
