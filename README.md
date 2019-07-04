@@ -38,7 +38,8 @@
     |   ├ kimuralab  
     |       このディレクトリの中はGitHubと同じ構成にする
     | 
-    ├ Opencv  //このディレクトリはOpenCVライブラリ用
+    ├ opencv  //このディレクトリはOpenCVライブラリ用 
+    ├ opencv_contrib  ////このディレクトリはOpenCVライブラリ用
   </pre>    
 
 ## GitHubディレクトリの整理
