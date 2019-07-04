@@ -14,6 +14,8 @@
   - OpenCVのインストール   
   [Raspberry Pi で OpenCV 4](https://qiita.com/tomo_vn/items/eea677eb00488d4c2291)  
   OpenCV3の場合はこっち　[OpenCV + Python3 on Raspberry Pi](https://qiita.com/nanbuwks/items/422eb405ceef84826ab4) 
+  これでもうまくいった　[OpenCVのインストール](https://homemadegarbage.com/raspizero-opencv)  
+  OpenCVのインストールは非常に気まぐれ、上手くいくまで色々試す  
   - pigpioのインストール  
   [Raspberry PiのGPIO制御の決定版pigpioを試す](https://karaage.hatenadiary.jp/entry/2017/02/10/073000)  
   インストールとデーモンの自動立ち上げだけ設定すればいい  
@@ -22,7 +24,7 @@
   `sudo nano /etc/rc.local`  
   rc.localの最後に`sudo pigpiod`を記入する  
   - I2Cの設定  
-  [Python3 から I2C を使いたい](http://nucl.hatenablog.com/entry/2017/09/29/151411)
+  [Python3 から I2C を使いたい](http://nucl.hatenablog.com/entry/2017/09/29/151411)  
   - 無線モジュールの設定  
   [Raspberry PiでGPIOを使用したシリアル通信](https://www.ingenious.jp/raspberry-pi/2019/03/gpio-uart/)  
   [Raspberry PiでIM920のシリアル通信を受信](https://blog.goo.ne.jp/izumame/e/4bf0f69ec24947bdde42a66b365e43d7)  
@@ -45,14 +47,9 @@
 `git config --global user.email 自分のメールアドレス`  
 
 gitフォルダの中のkimuralabフォルダの中をGitHubと同じディレクトリ構成にする  
-例えばSensorModuleTestのGPSディレクトリを入れたい場合は
+例えばSensorModuleTestを入れたい場合は
 
-`mkdir SensorModuleTest`  
-`cd SensorModuleTest`  
-`mkdir GPS`  
-`cd GPS`  
-`git init`  
-`git clone https://github.com/cansat2019kimuralab/SensorModuleTest/GPS master`  
+`git clone https://github.com/cansat2019kimuralab/SensorModuleTest`  
 
 ほかのフォルダをクローンしたい場合も同様。
 
