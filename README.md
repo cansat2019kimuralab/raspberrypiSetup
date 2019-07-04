@@ -21,7 +21,7 @@
   `sudo apt-get install pigpio`  
   `sudo nano /etc/rc.local`  
   rc.localの最後に`sudo pigpiod`を記入する  
-  - I2Cの設定
+  - I2Cの設定  
   [Python3 から I2C を使いたい](http://nucl.hatenablog.com/entry/2017/09/29/151411)
   - 無線モジュールの設定  
   [Raspberry PiでGPIOを使用したシリアル通信](https://www.ingenious.jp/raspberry-pi/2019/03/gpio-uart/)  
