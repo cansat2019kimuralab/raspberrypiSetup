@@ -6,7 +6,6 @@
 [SD Card CopyerでラズパイのSDカードを複製](https://qiita.com/ikemura23/items/4b7ab1af98045fa6516b)
 
 全部ひとりで設定したい人は以下の項目を行う。
-
   - Raspberry PiのOSインストール、初期設定  
   [RaspberryPiの初期セッティング](https://qiita.com/S_ODA/items/3600b4492747e66f5df7)
   - pip3のインストール  
@@ -22,6 +21,12 @@
   `sudo apt-get install pigpio`  
   `sudo nano /etc/rc.local`  
   rc.localの最後に`sudo pigpiod`を記入する  
+  - I2Cの設定
+  [Python3 から I2C を使いたい](http://nucl.hatenablog.com/entry/2017/09/29/151411)
+  - 無線モジュールの設定  
+  [Raspberry PiでGPIOを使用したシリアル通信](https://www.ingenious.jp/raspberry-pi/2019/03/gpio-uart/)  
+  [Raspberry PiでIM920のシリアル通信を受信](https://blog.goo.ne.jp/izumame/e/4bf0f69ec24947bdde42a66b365e43d7)  
+  [Raspberry Pi3Bのシリアルコンソール・シリアル通信について](http://yueno.net/xoops/modules/xpwiki/?PC%2FRaspberryPi%2FPi3%E3%81%AE%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1)  
   - ディレクトリの整理  
   以下のようにディレクトリを整理する。 　
   <pre>
