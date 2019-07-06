@@ -20,14 +20,12 @@
     - pigpio  
     - matplotlib  
     - scipy
-    - smbus
-    - pyserial
-
+    - smbus  
+    - pyserial  
+    - picamera
   pigpioに関しては起動時に立ち上がるように設定する  
   [Raspberry PiのGPIO制御の決定版pigpioを試す](https://karaage.hatenadiary.jp/entry/2017/02/10/073000)  
   インストールとデーモンの自動立ち上げだけ設定すればいい  
-  `sudo apt-get update`  
-  `sudo apt-get install pigpio`  
   `sudo nano /etc/rc.local`  
   rc.localの最後に`sudo pigpiod`を記入する  
   - I2Cの設定  
