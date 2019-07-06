@@ -70,3 +70,4 @@ EndToEnd試験や大会用プログラムはbranchに挙げること（詳細は
 
 # トラブルシューティング
 - [leafpad 設定](https://achapi2718.blogspot.com/2013/10/leafpad.html)
+- [【Raspberry Pi】apt-get updateで失敗する](http://engetu21.hatenablog.com/entry/2015/04/11/131949)
