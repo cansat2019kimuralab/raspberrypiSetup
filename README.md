@@ -22,7 +22,7 @@
     - scipy
     - smbus  
     - pyserial  
-    - picamera
+    - picamera  
   pigpioに関しては起動時に立ち上がるように設定する  
   [Raspberry PiのGPIO制御の決定版pigpioを試す](https://karaage.hatenadiary.jp/entry/2017/02/10/073000)  
   インストールとデーモンの自動立ち上げだけ設定すればいい  
