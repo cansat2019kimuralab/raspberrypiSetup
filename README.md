@@ -34,6 +34,11 @@
   [Raspberry PiでGPIOを使用したシリアル通信](https://www.ingenious.jp/raspberry-pi/2019/03/gpio-uart/)  
   [Raspberry PiでIM920のシリアル通信を受信](https://blog.goo.ne.jp/izumame/e/4bf0f69ec24947bdde42a66b365e43d7)  
   [Raspberry Pi3Bのシリアルコンソール・シリアル通信について](http://yueno.net/xoops/modules/xpwiki/?PC%2FRaspberryPi%2FPi3%E3%81%AE%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1)  
+  - nanoの設定  
+  タブの幅を４にしておく  
+  行番号の表示は各自お任せ  
+  [ラズベリーパイ　nanoでの行番号の表示の仕方](https://www.audio-blog.jp/2016/08/13/raspberry-pi-displaying-line-numbers-on-nano/)  
+  [誰も興味が無いnanoの基礎の基礎　- nanoはpicoの千倍なの！ -](https://techblog.kayac.com/nano-tutorial.html)  
   - ディレクトリの整理  
   以下のようにディレクトリを整理する。 　
   <pre>
