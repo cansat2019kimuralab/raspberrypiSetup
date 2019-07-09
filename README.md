@@ -4,6 +4,7 @@
 サーバーにも上げておく。  
 バックアップデータをSDカードに複製する。  
 [SD Card CopyerでラズパイのSDカードを複製](https://qiita.com/ikemura23/items/4b7ab1af98045fa6516b)
+[Raspberry Pi バックアップ（Windows）](https://qiita.com/henjiganai/items/fac178aef2a03ffe83fc)
 
 全部ひとりで設定したい人は以下の項目を行う。
   - Raspberry PiのOSインストール、初期設定  
