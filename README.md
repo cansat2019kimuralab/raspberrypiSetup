@@ -14,7 +14,7 @@
   「apt updateしてからapt installする : pip○ / pip3○」だけやればよい
   - OpenCVのインストール   
   [Raspberry Pi で OpenCV 4](https://qiita.com/tomo_vn/items/eea677eb00488d4c2291)  
-  OpenCV3の場合はこっち　[OpenCV + Python3 on Raspberry Pi](https://qiita.com/nanbuwks/items/422eb405ceef84826ab4) 
+  OpenCV3の場合はこっち　[OpenCV + Python3 on Raspberry Pi](https://qiita.com/nanbuwks/items/422eb405ceef84826ab4)   
   これでもうまくいった　[OpenCVのインストール](https://homemadegarbage.com/raspizero-opencv)  
   OpenCVのインストールは非常に気まぐれ、上手くいくまで色々試す  
   - モジュールのインストール  
